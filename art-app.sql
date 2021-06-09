@@ -99,7 +99,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `firstname`, `lastname`, `emailaddress`, `username`, `password`) VALUES
 (16, 'q', 'a', 'a', 'evan', 'a'),
-(18, 'Evan', 'Ananda', 'evan@gmail', 'annsteve', 'Feramicy1');
+(18, 'Evan', 'Ananda', 'evan@gmail', 'annsteve', 'annsteve');
 
 --
 -- Indexes for dumped tables
